@@ -1,0 +1,40 @@
+header{
+    background: #6e3b3b;
+    padding: 10px;
+}
+.enlace{
+    display:inline-block;
+    background: #f3cf7a;
+    color: black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.enlace:hover{
+    background: #ac3f21;
+
+}
+.Texto{
+    width: 80%;
+    padding: 10px;
+    height: 20%;
+    
+}
+
+.InfoPersonal{
+    display:flex;
+    background: #ac3f21;
+    color: #f3cf7a;
+    
+}
+
+.Hobbies{
+    display:flex;
+    background: #b96149;
+    color: #f3cf7a;
+
+}
+
+footer{
+    display:flex;
+    background: #b48b7f;
+}
